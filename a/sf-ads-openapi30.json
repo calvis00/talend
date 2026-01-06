@@ -1,0 +1,9 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "sf",
+    "description" : "No description",
+    "version" : "ads"
+  },
+  "paths" : { }
+}
